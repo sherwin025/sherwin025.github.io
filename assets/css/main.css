@@ -1710,3 +1710,22 @@ input, select, textarea {
 			margin-top: 50px;
 			padding-top: 50px;
 		}
+
+		#logo-div {
+			display: flex;
+			flex-wrap: wrap;
+			justify-content: center;
+			flex-direction: row;
+		}
+
+		.logo {
+			align-items: center;
+			text-align: center;
+			word-wrap: break-word;
+		}
+
+		.techstackimg {
+			width: 6em;
+			height: 6em;
+			padding: 0.3em;
+		}
