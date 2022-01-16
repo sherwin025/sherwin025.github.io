@@ -1711,7 +1711,7 @@ input, select, textarea {
 			padding-top: 50px;
 		}
 
-		#logo-div {
+		.logo-div {
 			display: flex;
 			flex-wrap: wrap;
 			justify-content: center;
